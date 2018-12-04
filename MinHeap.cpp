@@ -126,8 +126,6 @@ class Heap{
     decreaseKey(i, -1000000); 
     extractMin(); 
 } 
-     
- }
     
     
 };
